@@ -1032,3 +1032,750 @@
 [2025-06-05 20:59:38] WARNING: No items received from RustyPot
 [2025-06-05 21:00:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
 [2025-06-05 21:00:38] WARNING: No items received from RustyPot
+[2025-06-05 21:01:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:01:38] WARNING: No items received from RustyPot
+[2025-06-05 21:02:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:02:38] WARNING: No items received from RustyPot
+[2025-06-05 21:03:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:03:39] WARNING: No items received from RustyPot
+[2025-06-05 21:04:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:04:39] WARNING: No items received from RustyPot
+[2025-06-05 21:05:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:05:39] WARNING: No items received from RustyPot
+[2025-06-05 21:06:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:06:39] WARNING: No items received from RustyPot
+[2025-06-05 21:07:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:07:39] WARNING: No items received from RustyPot
+[2025-06-05 21:08:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:08:39] WARNING: No items received from RustyPot
+[2025-06-05 21:09:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:09:39] WARNING: No items received from RustyPot
+[2025-06-05 21:10:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:10:39] WARNING: No items received from RustyPot
+[2025-06-05 21:11:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:11:39] WARNING: No items received from RustyPot
+[2025-06-05 21:12:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:12:39] WARNING: No items received from RustyPot
+[2025-06-05 21:13:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:13:40] WARNING: No items received from RustyPot
+[2025-06-05 21:14:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:14:40] WARNING: No items received from RustyPot
+[2025-06-05 21:15:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:15:40] WARNING: No items received from RustyPot
+[2025-06-05 21:16:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:16:40] WARNING: No items received from RustyPot
+[2025-06-05 21:17:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:17:40] WARNING: No items received from RustyPot
+[2025-06-05 21:18:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:18:40] WARNING: No items received from RustyPot
+[2025-06-05 21:19:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:19:40] WARNING: No items received from RustyPot
+[2025-06-05 21:20:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:20:40] WARNING: No items received from RustyPot
+[2025-06-05 21:21:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:21:40] WARNING: No items received from RustyPot
+[2025-06-05 21:22:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:22:40] WARNING: No items received from RustyPot
+[2025-06-05 21:23:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:23:40] WARNING: No items received from RustyPot
+[2025-06-05 21:24:38] INFO: Следующее обновление в: 2025-06-05 21:24:38.060262
+[2025-06-05 21:24:38] INFO: Начато обновление: rustbet
+[2025-06-05 21:24:38] INFO: Начато обновление: lootfarm
+[2025-06-05 21:24:38] INFO: Начато обновление: swapgg
+[2025-06-05 21:24:38] INFO: Начато обновление: cstrade
+[2025-06-05 21:24:38] INFO: Обновление завершено: swapgg - 1988/1988 предметов за 0.25 сек
+[2025-06-05 21:24:38] INFO: Обновление завершено: cstrade - 4199/4199 предметов за 0.28 сек
+[2025-06-05 21:24:38] INFO: Обновление завершено: lootfarm - 3777/3777 предметов за 0.30 сек
+[2025-06-05 21:24:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:24:41] WARNING: No items received from RustyPot
+[2025-06-05 21:25:24] INFO: Обновление завершено: rustbet - 720/720 предметов за 46.34 сек
+[2025-06-05 21:25:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:25:41] WARNING: No items received from RustyPot
+[2025-06-05 21:26:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:26:41] WARNING: No items received from RustyPot
+[2025-06-05 21:27:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:27:41] WARNING: No items received from RustyPot
+[2025-06-05 21:28:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:28:41] WARNING: No items received from RustyPot
+[2025-06-05 21:29:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:29:41] WARNING: No items received from RustyPot
+[2025-06-05 21:30:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:30:41] WARNING: No items received from RustyPot
+[2025-06-05 21:31:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:31:41] WARNING: No items received from RustyPot
+[2025-06-05 21:32:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:32:41] WARNING: No items received from RustyPot
+[2025-06-05 21:33:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:33:41] WARNING: No items received from RustyPot
+[2025-06-05 21:34:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:34:42] WARNING: No items received from RustyPot
+[2025-06-05 21:35:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:35:42] WARNING: No items received from RustyPot
+[2025-06-05 21:36:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:36:42] WARNING: No items received from RustyPot
+[2025-06-05 21:37:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:37:42] WARNING: No items received from RustyPot
+[2025-06-05 21:38:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:38:42] WARNING: No items received from RustyPot
+[2025-06-05 21:39:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:39:42] WARNING: No items received from RustyPot
+[2025-06-05 21:40:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:40:42] WARNING: No items received from RustyPot
+[2025-06-05 21:41:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:41:42] WARNING: No items received from RustyPot
+[2025-06-05 21:42:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:42:42] WARNING: No items received from RustyPot
+[2025-06-05 21:43:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:43:42] WARNING: No items received from RustyPot
+[2025-06-05 21:44:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:44:43] WARNING: No items received from RustyPot
+[2025-06-05 21:45:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:45:43] WARNING: No items received from RustyPot
+[2025-06-05 21:46:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:46:43] WARNING: No items received from RustyPot
+[2025-06-05 21:47:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:47:43] WARNING: No items received from RustyPot
+[2025-06-05 21:48:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:48:43] WARNING: No items received from RustyPot
+[2025-06-05 21:49:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:49:43] WARNING: No items received from RustyPot
+[2025-06-05 21:50:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:50:43] WARNING: No items received from RustyPot
+[2025-06-05 21:51:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:51:43] WARNING: No items received from RustyPot
+[2025-06-05 21:52:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:52:43] WARNING: No items received from RustyPot
+[2025-06-05 21:53:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:53:43] WARNING: No items received from RustyPot
+[2025-06-05 21:54:39] INFO: Следующее обновление в: 2025-06-05 21:54:38.565650
+[2025-06-05 21:54:39] INFO: Начато обновление: rustbet
+[2025-06-05 21:54:39] INFO: Начато обновление: lootfarm
+[2025-06-05 21:54:39] INFO: Начато обновление: swapgg
+[2025-06-05 21:54:39] INFO: Начато обновление: cstrade
+[2025-06-05 21:54:39] INFO: Обновление завершено: lootfarm - 3775/3775 предметов за 0.29 сек
+[2025-06-05 21:54:39] INFO: Обновление завершено: cstrade - 4199/4199 предметов за 0.32 сек
+[2025-06-05 21:54:39] INFO: Обновление завершено: swapgg - 1988/1988 предметов за 0.34 сек
+[2025-06-05 21:54:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:54:44] WARNING: No items received from RustyPot
+[2025-06-05 21:55:33] INFO: Обновление завершено: rustbet - 720/720 предметов за 53.59 сек
+[2025-06-05 21:55:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:55:44] WARNING: No items received from RustyPot
+[2025-06-05 21:56:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:56:44] WARNING: No items received from RustyPot
+[2025-06-05 21:57:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:57:44] WARNING: No items received from RustyPot
+[2025-06-05 21:58:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:58:44] WARNING: No items received from RustyPot
+[2025-06-05 21:59:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 21:59:44] WARNING: No items received from RustyPot
+[2025-06-05 22:00:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:00:44] WARNING: No items received from RustyPot
+[2025-06-05 22:01:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:01:44] WARNING: No items received from RustyPot
+[2025-06-05 22:02:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:02:44] WARNING: No items received from RustyPot
+[2025-06-05 22:03:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:03:44] WARNING: No items received from RustyPot
+[2025-06-05 22:04:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:04:45] WARNING: No items received from RustyPot
+[2025-06-05 22:05:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:05:45] WARNING: No items received from RustyPot
+[2025-06-05 22:06:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:06:45] WARNING: No items received from RustyPot
+[2025-06-05 22:07:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:07:45] WARNING: No items received from RustyPot
+[2025-06-05 22:08:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:08:45] WARNING: No items received from RustyPot
+[2025-06-05 22:09:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:09:45] WARNING: No items received from RustyPot
+[2025-06-05 22:10:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:10:45] WARNING: No items received from RustyPot
+[2025-06-05 22:11:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:11:45] WARNING: No items received from RustyPot
+[2025-06-05 22:12:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:12:45] WARNING: No items received from RustyPot
+[2025-06-05 22:13:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:13:45] WARNING: No items received from RustyPot
+[2025-06-05 22:14:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:14:45] WARNING: No items received from RustyPot
+[2025-06-05 22:15:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:15:45] WARNING: No items received from RustyPot
+[2025-06-05 22:16:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:16:46] WARNING: No items received from RustyPot
+[2025-06-05 22:17:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:17:46] WARNING: No items received from RustyPot
+[2025-06-05 22:18:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:18:46] WARNING: No items received from RustyPot
+[2025-06-05 22:19:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:19:46] WARNING: No items received from RustyPot
+[2025-06-05 22:20:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:20:46] WARNING: No items received from RustyPot
+[2025-06-05 22:21:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:21:46] WARNING: No items received from RustyPot
+[2025-06-05 22:22:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:22:46] WARNING: No items received from RustyPot
+[2025-06-05 22:23:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:23:46] WARNING: No items received from RustyPot
+[2025-06-05 22:24:39] INFO: Следующее обновление в: 2025-06-05 22:24:39.514509
+[2025-06-05 22:24:39] INFO: Начато обновление: rustbet
+[2025-06-05 22:24:39] INFO: Начато обновление: lootfarm
+[2025-06-05 22:24:39] INFO: Начато обновление: swapgg
+[2025-06-05 22:24:39] INFO: Начато обновление: cstrade
+[2025-06-05 22:24:40] INFO: Обновление завершено: lootfarm - 3775/3775 предметов за 0.30 сек
+[2025-06-05 22:24:40] INFO: Обновление завершено: cstrade - 4199/4199 предметов за 0.33 сек
+[2025-06-05 22:24:40] INFO: Обновление завершено: swapgg - 1985/1985 предметов за 0.38 сек
+[2025-06-05 22:24:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:24:46] WARNING: No items received from RustyPot
+[2025-06-05 22:25:28] INFO: Обновление завершено: rustbet - 720/720 предметов за 48.80 сек
+[2025-06-05 22:25:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:25:46] WARNING: No items received from RustyPot
+[2025-06-05 22:26:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:26:47] WARNING: No items received from RustyPot
+[2025-06-05 22:27:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:27:47] WARNING: No items received from RustyPot
+[2025-06-05 22:28:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:28:47] WARNING: No items received from RustyPot
+[2025-06-05 22:29:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:29:47] WARNING: No items received from RustyPot
+[2025-06-05 22:30:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:30:47] WARNING: No items received from RustyPot
+[2025-06-05 22:31:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:31:47] WARNING: No items received from RustyPot
+[2025-06-05 22:32:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:32:47] WARNING: No items received from RustyPot
+[2025-06-05 22:33:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:33:47] WARNING: No items received from RustyPot
+[2025-06-05 22:34:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:34:48] WARNING: No items received from RustyPot
+[2025-06-05 22:35:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:35:48] WARNING: No items received from RustyPot
+[2025-06-05 22:36:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:36:48] WARNING: No items received from RustyPot
+[2025-06-05 22:37:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:37:48] WARNING: No items received from RustyPot
+[2025-06-05 22:38:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:38:48] WARNING: No items received from RustyPot
+[2025-06-05 22:39:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:39:48] WARNING: No items received from RustyPot
+[2025-06-05 22:40:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:40:48] WARNING: No items received from RustyPot
+[2025-06-05 22:41:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:41:48] WARNING: No items received from RustyPot
+[2025-06-05 22:42:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:42:48] WARNING: No items received from RustyPot
+[2025-06-05 22:43:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:43:48] WARNING: No items received from RustyPot
+[2025-06-05 22:44:49] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-05 22:44:49] WARNING: No items received from RustyPot
+[2025-06-06 22:31:58] INFO: RustyPot HTTP parser started
+[2025-06-06 22:31:58] INFO: ==================================================
+[2025-06-06 22:31:58] INFO: Система мониторинга цен запущена
+[2025-06-06 22:31:58] INFO: Интервал обновления: 1800 секунд
+[2025-06-06 22:31:58] INFO: ==================================================
+[2025-06-06 22:31:58] INFO: Автообновление данных запущено
+[2025-06-06 22:31:58] INFO: Начато обновление: rustbet
+[2025-06-06 22:31:58] INFO: Начато обновление: lootfarm
+[2025-06-06 22:31:58] INFO: Начато обновление: swapgg
+[2025-06-06 22:31:58] INFO: Начато обновление: cstrade
+[2025-06-06 22:31:58] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:31:58] WARNING: No items received from RustyPot
+[2025-06-06 22:31:58] INFO: Обновление завершено: lootfarm - 3799/3799 предметов за 0.73 сек
+[2025-06-06 22:31:58] INFO: Обновление завершено: cstrade - 4196/4196 предметов за 0.80 сек
+[2025-06-06 22:31:58] INFO: Обновление завершено: swapgg - 2038/2038 предметов за 0.96 сек
+[2025-06-06 22:32:30] INFO: Обновление завершено: rustbet - 720/720 предметов за 32.49 сек
+[2025-06-06 22:32:58] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:32:58] WARNING: No items received from RustyPot
+[2025-06-06 22:33:58] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:33:58] WARNING: No items received from RustyPot
+[2025-06-06 22:34:59] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:34:59] WARNING: No items received from RustyPot
+[2025-06-06 22:35:59] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:35:59] WARNING: No items received from RustyPot
+[2025-06-06 22:37:00] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:37:00] WARNING: No items received from RustyPot
+[2025-06-06 22:38:00] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:38:00] WARNING: No items received from RustyPot
+[2025-06-06 22:39:00] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:39:00] WARNING: No items received from RustyPot
+[2025-06-06 22:40:00] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:40:00] WARNING: No items received from RustyPot
+[2025-06-06 22:41:01] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:41:01] WARNING: No items received from RustyPot
+[2025-06-06 22:42:01] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:42:01] WARNING: No items received from RustyPot
+[2025-06-06 22:43:01] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:43:01] WARNING: No items received from RustyPot
+[2025-06-06 22:44:02] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:44:02] WARNING: No items received from RustyPot
+[2025-06-06 22:45:02] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:45:02] WARNING: No items received from RustyPot
+[2025-06-06 22:46:02] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:46:02] WARNING: No items received from RustyPot
+[2025-06-06 22:47:03] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:47:03] WARNING: No items received from RustyPot
+[2025-06-06 22:48:03] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:48:03] WARNING: No items received from RustyPot
+[2025-06-06 22:49:03] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:49:03] WARNING: No items received from RustyPot
+[2025-06-06 22:50:03] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:50:03] WARNING: No items received from RustyPot
+[2025-06-06 22:51:03] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:51:03] WARNING: No items received from RustyPot
+[2025-06-06 22:52:04] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:52:04] WARNING: No items received from RustyPot
+[2025-06-06 22:53:04] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:53:04] WARNING: No items received from RustyPot
+[2025-06-06 22:54:04] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:54:04] WARNING: No items received from RustyPot
+[2025-06-06 22:55:05] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:55:05] WARNING: No items received from RustyPot
+[2025-06-06 22:56:05] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:56:05] WARNING: No items received from RustyPot
+[2025-06-06 22:57:05] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:57:05] WARNING: No items received from RustyPot
+[2025-06-06 22:58:05] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:58:05] WARNING: No items received from RustyPot
+[2025-06-06 22:59:06] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 22:59:06] WARNING: No items received from RustyPot
+[2025-06-06 23:00:06] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 23:00:06] WARNING: No items received from RustyPot
+[2025-06-06 23:01:06] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 23:01:06] WARNING: No items received from RustyPot
+[2025-06-06 23:01:58] INFO: Следующее обновление в: 2025-06-06 23:01:58.024488
+[2025-06-06 23:01:58] INFO: Начато обновление: rustbet
+[2025-06-06 23:01:58] INFO: Начато обновление: lootfarm
+[2025-06-06 23:01:58] INFO: Начато обновление: swapgg
+[2025-06-06 23:01:58] INFO: Начато обновление: cstrade
+[2025-06-06 23:01:58] INFO: Обновление завершено: swapgg - 2026/2026 предметов за 0.62 сек
+[2025-06-06 23:01:58] INFO: Обновление завершено: lootfarm - 3799/3799 предметов за 0.70 сек
+[2025-06-06 23:01:58] INFO: Обновление завершено: cstrade - 4196/4196 предметов за 0.73 сек
+[2025-06-06 23:02:06] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 23:02:06] WARNING: No items received from RustyPot
+[2025-06-06 23:02:50] INFO: Обновление завершено: rustbet - 720/720 предметов за 52.31 сек
+[2025-06-06 23:03:07] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 23:03:07] WARNING: No items received from RustyPot
+[2025-06-06 23:04:07] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-06 23:04:07] WARNING: No items received from RustyPot
+[2025-06-07 21:03:16] INFO: RustyPot HTTP parser started
+[2025-06-07 21:03:16] INFO: ==================================================
+[2025-06-07 21:03:16] INFO: Система мониторинга цен запущена
+[2025-06-07 21:03:16] INFO: Интервал обновления: 1800 секунд
+[2025-06-07 21:03:16] INFO: ==================================================
+[2025-06-07 21:03:16] INFO: Автообновление данных запущено
+[2025-06-07 21:03:16] INFO: Начато обновление: rustbet
+[2025-06-07 21:03:16] INFO: Начато обновление: lootfarm
+[2025-06-07 21:03:16] INFO: Начато обновление: swapgg
+[2025-06-07 21:03:16] INFO: Начато обновление: cstrade
+[2025-06-07 21:03:16] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:03:16] WARNING: No items received from RustyPot
+[2025-06-07 21:03:16] INFO: Обновление завершено: cstrade - 4202/4202 предметов за 0.69 сек
+[2025-06-07 21:03:16] INFO: Обновление завершено: swapgg - 2011/2011 предметов за 0.74 сек
+[2025-06-07 21:03:17] INFO: Обновление завершено: lootfarm - 3823/3823 предметов за 0.86 сек
+[2025-06-07 21:04:03] INFO: Обновление завершено: rustbet - 720/720 предметов за 47.65 сек
+[2025-06-07 21:04:16] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:04:16] WARNING: No items received from RustyPot
+[2025-06-07 21:05:16] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:05:16] WARNING: No items received from RustyPot
+[2025-06-07 21:06:17] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:06:17] WARNING: No items received from RustyPot
+[2025-06-07 21:07:17] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:07:17] WARNING: No items received from RustyPot
+[2025-06-07 21:08:17] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:08:17] WARNING: No items received from RustyPot
+[2025-06-07 21:09:17] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:09:17] WARNING: No items received from RustyPot
+[2025-06-07 21:10:18] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:10:18] WARNING: No items received from RustyPot
+[2025-06-07 21:11:18] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:11:18] WARNING: No items received from RustyPot
+[2025-06-07 21:12:18] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:12:18] WARNING: No items received from RustyPot
+[2025-06-07 21:13:18] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:13:18] WARNING: No items received from RustyPot
+[2025-06-07 21:14:19] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:14:19] WARNING: No items received from RustyPot
+[2025-06-07 21:15:19] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:15:19] WARNING: No items received from RustyPot
+[2025-06-07 21:16:19] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:16:19] WARNING: No items received from RustyPot
+[2025-06-07 21:17:19] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:17:19] WARNING: No items received from RustyPot
+[2025-06-07 21:18:20] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:18:20] WARNING: No items received from RustyPot
+[2025-06-07 21:19:20] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:19:20] WARNING: No items received from RustyPot
+[2025-06-07 21:20:20] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:20:20] WARNING: No items received from RustyPot
+[2025-06-07 21:21:20] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:21:20] WARNING: No items received from RustyPot
+[2025-06-07 21:22:21] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:22:21] WARNING: No items received from RustyPot
+[2025-06-07 21:23:21] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:23:21] WARNING: No items received from RustyPot
+[2025-06-07 21:24:21] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:24:21] WARNING: No items received from RustyPot
+[2025-06-07 21:25:21] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:25:21] WARNING: No items received from RustyPot
+[2025-06-07 21:26:21] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:26:21] WARNING: No items received from RustyPot
+[2025-06-07 21:27:22] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:27:22] WARNING: No items received from RustyPot
+[2025-06-07 21:28:22] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:28:22] WARNING: No items received from RustyPot
+[2025-06-07 21:29:22] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:29:22] WARNING: No items received from RustyPot
+[2025-06-07 21:30:23] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:30:23] WARNING: No items received from RustyPot
+[2025-06-07 21:31:23] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:31:23] WARNING: No items received from RustyPot
+[2025-06-07 21:32:23] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:32:23] WARNING: No items received from RustyPot
+[2025-06-07 21:33:17] INFO: Следующее обновление в: 2025-06-07 21:33:16.217112
+[2025-06-07 21:33:17] INFO: Начато обновление: rustbet
+[2025-06-07 21:33:17] INFO: Начато обновление: lootfarm
+[2025-06-07 21:33:17] INFO: Начато обновление: swapgg
+[2025-06-07 21:33:17] INFO: Начато обновление: cstrade
+[2025-06-07 21:33:17] INFO: Обновление завершено: cstrade - 4202/4202 предметов за 0.64 сек
+[2025-06-07 21:33:17] INFO: Обновление завершено: swapgg - 2009/2009 предметов за 0.89 сек
+[2025-06-07 21:33:18] INFO: Обновление завершено: lootfarm - 3823/3823 предметов за 0.99 сек
+[2025-06-07 21:33:23] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:33:23] WARNING: No items received from RustyPot
+[2025-06-07 21:34:01] INFO: Обновление завершено: rustbet - 720/720 предметов за 44.66 сек
+[2025-06-07 21:34:24] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:34:24] WARNING: No items received from RustyPot
+[2025-06-07 21:35:24] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:35:24] WARNING: No items received from RustyPot
+[2025-06-07 21:36:24] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:36:24] WARNING: No items received from RustyPot
+[2025-06-07 21:37:24] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:37:24] WARNING: No items received from RustyPot
+[2025-06-07 21:38:25] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:38:25] WARNING: No items received from RustyPot
+[2025-06-07 21:39:25] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:39:25] WARNING: No items received from RustyPot
+[2025-06-07 21:40:25] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:40:25] WARNING: No items received from RustyPot
+[2025-06-07 21:41:25] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:41:25] WARNING: No items received from RustyPot
+[2025-06-07 21:42:26] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:42:26] WARNING: No items received from RustyPot
+[2025-06-07 21:43:26] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:43:26] WARNING: No items received from RustyPot
+[2025-06-07 21:44:26] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:44:26] WARNING: No items received from RustyPot
+[2025-06-07 21:45:26] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:45:26] WARNING: No items received from RustyPot
+[2025-06-07 21:46:27] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:46:27] WARNING: No items received from RustyPot
+[2025-06-07 21:47:27] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:47:27] WARNING: No items received from RustyPot
+[2025-06-07 21:48:27] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:48:27] WARNING: No items received from RustyPot
+[2025-06-07 21:49:27] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:49:27] WARNING: No items received from RustyPot
+[2025-06-07 21:50:28] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:50:28] WARNING: No items received from RustyPot
+[2025-06-07 21:51:28] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:51:28] WARNING: No items received from RustyPot
+[2025-06-07 21:52:28] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:52:28] WARNING: No items received from RustyPot
+[2025-06-07 21:53:29] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:53:29] WARNING: No items received from RustyPot
+[2025-06-07 21:54:29] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:54:29] WARNING: No items received from RustyPot
+[2025-06-07 21:55:29] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:55:29] WARNING: No items received from RustyPot
+[2025-06-07 21:56:30] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:56:30] WARNING: No items received from RustyPot
+[2025-06-07 21:57:30] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:57:30] WARNING: No items received from RustyPot
+[2025-06-07 21:58:30] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:58:30] WARNING: No items received from RustyPot
+[2025-06-07 21:59:30] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 21:59:30] WARNING: No items received from RustyPot
+[2025-06-07 22:00:31] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:00:31] WARNING: No items received from RustyPot
+[2025-06-07 22:01:31] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:01:31] WARNING: No items received from RustyPot
+[2025-06-07 22:02:31] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:02:31] WARNING: No items received from RustyPot
+[2025-06-07 22:03:17] INFO: Следующее обновление в: 2025-06-07 22:03:17.058021
+[2025-06-07 22:03:17] INFO: Начато обновление: rustbet
+[2025-06-07 22:03:17] INFO: Начато обновление: lootfarm
+[2025-06-07 22:03:17] INFO: Начато обновление: swapgg
+[2025-06-07 22:03:17] INFO: Начато обновление: cstrade
+[2025-06-07 22:03:18] INFO: Обновление завершено: cstrade - 4202/4202 предметов за 0.61 сек
+[2025-06-07 22:03:18] INFO: Обновление завершено: lootfarm - 3823/3823 предметов за 0.66 сек
+[2025-06-07 22:03:18] INFO: Обновление завершено: swapgg - 2005/2005 предметов за 0.85 сек
+[2025-06-07 22:03:31] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:03:31] WARNING: No items received from RustyPot
+[2025-06-07 22:04:32] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:04:32] WARNING: No items received from RustyPot
+[2025-06-07 22:04:34] INFO: Обновление завершено: rustbet - 720/720 предметов за 76.94 сек
+[2025-06-07 22:05:32] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:05:32] WARNING: No items received from RustyPot
+[2025-06-07 22:06:32] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:06:32] WARNING: No items received from RustyPot
+[2025-06-07 22:07:32] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:07:32] WARNING: No items received from RustyPot
+[2025-06-07 22:08:33] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:08:33] WARNING: No items received from RustyPot
+[2025-06-07 22:09:33] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:09:33] WARNING: No items received from RustyPot
+[2025-06-07 22:10:33] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:10:33] WARNING: No items received from RustyPot
+[2025-06-07 22:11:33] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:11:33] WARNING: No items received from RustyPot
+[2025-06-07 22:12:34] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:12:34] WARNING: No items received from RustyPot
+[2025-06-07 22:13:34] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:13:34] WARNING: No items received from RustyPot
+[2025-06-07 22:14:34] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:14:34] WARNING: No items received from RustyPot
+[2025-06-07 22:15:35] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:15:35] WARNING: No items received from RustyPot
+[2025-06-07 22:16:35] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:16:35] WARNING: No items received from RustyPot
+[2025-06-07 22:17:35] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:17:35] WARNING: No items received from RustyPot
+[2025-06-07 22:18:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:18:36] WARNING: No items received from RustyPot
+[2025-06-07 22:19:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:19:36] WARNING: No items received from RustyPot
+[2025-06-07 22:20:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:20:36] WARNING: No items received from RustyPot
+[2025-06-07 22:21:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:21:36] WARNING: No items received from RustyPot
+[2025-06-07 22:22:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:22:37] WARNING: No items received from RustyPot
+[2025-06-07 22:23:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:23:37] WARNING: No items received from RustyPot
+[2025-06-07 22:24:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:24:37] WARNING: No items received from RustyPot
+[2025-06-07 22:25:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:25:38] WARNING: No items received from RustyPot
+[2025-06-07 22:26:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:26:38] WARNING: No items received from RustyPot
+[2025-06-07 22:27:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:27:38] WARNING: No items received from RustyPot
+[2025-06-07 22:28:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:28:39] WARNING: No items received from RustyPot
+[2025-06-07 22:29:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:29:39] WARNING: No items received from RustyPot
+[2025-06-07 22:30:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:30:39] WARNING: No items received from RustyPot
+[2025-06-07 22:31:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:31:39] WARNING: No items received from RustyPot
+[2025-06-07 22:32:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:32:40] WARNING: No items received from RustyPot
+[2025-06-07 22:33:18] INFO: Следующее обновление в: 2025-06-07 22:33:17.432985
+[2025-06-07 22:33:18] INFO: Начато обновление: rustbet
+[2025-06-07 22:33:18] INFO: Начато обновление: lootfarm
+[2025-06-07 22:33:18] INFO: Начато обновление: swapgg
+[2025-06-07 22:33:18] INFO: Начато обновление: cstrade
+[2025-06-07 22:33:18] INFO: Обновление завершено: lootfarm - 3823/3823 предметов за 0.66 сек
+[2025-06-07 22:33:18] INFO: Обновление завершено: cstrade - 4202/4202 предметов за 0.70 сек
+[2025-06-07 22:33:18] INFO: Обновление завершено: swapgg - 2006/2006 предметов за 0.86 сек
+[2025-06-07 22:33:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:33:40] WARNING: No items received from RustyPot
+[2025-06-07 22:33:48] INFO: Обновление завершено: rustbet - 720/720 предметов за 30.44 сек
+[2025-06-07 22:34:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:34:41] WARNING: No items received from RustyPot
+[2025-06-07 22:35:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:35:41] WARNING: No items received from RustyPot
+[2025-06-07 22:36:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:36:41] WARNING: No items received from RustyPot
+[2025-06-07 22:37:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:37:41] WARNING: No items received from RustyPot
+[2025-06-07 22:38:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:38:42] WARNING: No items received from RustyPot
+[2025-06-07 22:39:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:39:42] WARNING: No items received from RustyPot
+[2025-06-07 22:40:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:40:43] WARNING: No items received from RustyPot
+[2025-06-07 22:41:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:41:43] WARNING: No items received from RustyPot
+[2025-06-07 22:42:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:42:44] WARNING: No items received from RustyPot
+[2025-06-07 22:43:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:43:44] WARNING: No items received from RustyPot
+[2025-06-07 22:44:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:44:44] WARNING: No items received from RustyPot
+[2025-06-07 22:45:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:45:44] WARNING: No items received from RustyPot
+[2025-06-07 22:46:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:46:45] WARNING: No items received from RustyPot
+[2025-06-07 22:47:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:47:45] WARNING: No items received from RustyPot
+[2025-06-07 22:48:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:48:46] WARNING: No items received from RustyPot
+[2025-06-07 22:49:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:49:46] WARNING: No items received from RustyPot
+[2025-06-07 22:50:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:50:46] WARNING: No items received from RustyPot
+[2025-06-07 22:51:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-07 22:51:46] WARNING: No items received from RustyPot
+[2025-06-08 16:53:35] INFO: RustyPot HTTP parser started
+[2025-06-08 16:53:35] INFO: ==================================================
+[2025-06-08 16:53:35] INFO: Система мониторинга цен запущена
+[2025-06-08 16:53:35] INFO: Интервал обновления: 1800 секунд
+[2025-06-08 16:53:35] INFO: ==================================================
+[2025-06-08 16:53:35] INFO: Автообновление данных запущено
+[2025-06-08 16:53:35] INFO: Начато обновление: rustbet
+[2025-06-08 16:53:35] INFO: Начато обновление: lootfarm
+[2025-06-08 16:53:35] INFO: Начато обновление: swapgg
+[2025-06-08 16:53:35] INFO: Начато обновление: cstrade
+[2025-06-08 16:53:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:53:36] WARNING: No items received from RustyPot
+[2025-06-08 16:53:36] INFO: Обновление завершено: cstrade - 4195/4195 предметов за 0.69 сек
+[2025-06-08 16:53:36] INFO: Обновление завершено: swapgg - 2032/2032 предметов за 0.79 сек
+[2025-06-08 16:53:36] INFO: Обновление завершено: lootfarm - 3832/3832 предметов за 0.82 сек
+[2025-06-08 16:54:22] INFO: Обновление завершено: rustbet - 720/720 предметов за 46.36 сек
+[2025-06-08 16:54:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:54:36] WARNING: No items received from RustyPot
+[2025-06-08 16:55:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:55:36] WARNING: No items received from RustyPot
+[2025-06-08 16:56:36] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:56:36] WARNING: No items received from RustyPot
+[2025-06-08 16:57:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:57:37] WARNING: No items received from RustyPot
+[2025-06-08 16:58:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:58:37] WARNING: No items received from RustyPot
+[2025-06-08 16:59:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 16:59:37] WARNING: No items received from RustyPot
+[2025-06-08 17:00:37] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:00:37] WARNING: No items received from RustyPot
+[2025-06-08 17:01:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:01:38] WARNING: No items received from RustyPot
+[2025-06-08 17:02:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:02:38] WARNING: No items received from RustyPot
+[2025-06-08 17:03:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:03:38] WARNING: No items received from RustyPot
+[2025-06-08 17:04:38] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:04:38] WARNING: No items received from RustyPot
+[2025-06-08 17:05:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:05:39] WARNING: No items received from RustyPot
+[2025-06-08 17:06:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:06:39] WARNING: No items received from RustyPot
+[2025-06-08 17:07:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:07:39] WARNING: No items received from RustyPot
+[2025-06-08 17:08:39] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:08:39] WARNING: No items received from RustyPot
+[2025-06-08 17:09:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:09:40] WARNING: No items received from RustyPot
+[2025-06-08 17:10:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:10:40] WARNING: No items received from RustyPot
+[2025-06-08 17:11:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:11:40] WARNING: No items received from RustyPot
+[2025-06-08 17:12:40] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:12:40] WARNING: No items received from RustyPot
+[2025-06-08 17:13:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:13:41] WARNING: No items received from RustyPot
+[2025-06-08 17:14:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:14:41] WARNING: No items received from RustyPot
+[2025-06-08 17:15:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:15:41] WARNING: No items received from RustyPot
+[2025-06-08 17:16:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:16:41] WARNING: No items received from RustyPot
+[2025-06-08 17:17:41] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:17:41] WARNING: No items received from RustyPot
+[2025-06-08 17:18:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:18:42] WARNING: No items received from RustyPot
+[2025-06-08 17:19:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:19:42] WARNING: No items received from RustyPot
+[2025-06-08 17:20:42] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:20:42] WARNING: No items received from RustyPot
+[2025-06-08 17:21:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:21:43] WARNING: No items received from RustyPot
+[2025-06-08 17:22:43] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:22:43] WARNING: No items received from RustyPot
+[2025-06-08 17:23:36] INFO: Следующее обновление в: 2025-06-08 17:23:35.901896
+[2025-06-08 17:23:36] INFO: Начато обновление: rustbet
+[2025-06-08 17:23:36] INFO: Начато обновление: lootfarm
+[2025-06-08 17:23:36] INFO: Начато обновление: swapgg
+[2025-06-08 17:23:36] INFO: Начато обновление: cstrade
+[2025-06-08 17:23:37] INFO: Обновление завершено: lootfarm - 3831/3831 предметов за 0.94 сек
+[2025-06-08 17:23:37] INFO: Обновление завершено: swapgg - 2031/2031 предметов за 0.99 сек
+[2025-06-08 17:23:37] INFO: Обновление завершено: cstrade - 4194/4194 предметов за 1.03 сек
+[2025-06-08 17:23:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:23:44] WARNING: No items received from RustyPot
+[2025-06-08 17:24:15] INFO: Обновление завершено: rustbet - 720/720 предметов за 38.17 сек
+[2025-06-08 17:24:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:24:44] WARNING: No items received from RustyPot
+[2025-06-08 17:25:44] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:25:44] WARNING: No items received from RustyPot
+[2025-06-08 17:26:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:26:45] WARNING: No items received from RustyPot
+[2025-06-08 17:27:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:27:45] WARNING: No items received from RustyPot
+[2025-06-08 17:28:45] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:28:45] WARNING: No items received from RustyPot
+[2025-06-08 17:29:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:29:46] WARNING: No items received from RustyPot
+[2025-06-08 17:30:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:30:46] WARNING: No items received from RustyPot
+[2025-06-08 17:31:46] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:31:46] WARNING: No items received from RustyPot
+[2025-06-08 17:32:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:32:47] WARNING: No items received from RustyPot
+[2025-06-08 17:33:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:33:47] WARNING: No items received from RustyPot
+[2025-06-08 17:34:47] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:34:47] WARNING: No items received from RustyPot
+[2025-06-08 17:35:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:35:48] WARNING: No items received from RustyPot
+[2025-06-08 17:36:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:36:48] WARNING: No items received from RustyPot
+[2025-06-08 17:37:48] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:37:48] WARNING: No items received from RustyPot
+[2025-06-08 17:38:49] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:38:49] WARNING: No items received from RustyPot
+[2025-06-08 17:39:50] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:39:50] WARNING: No items received from RustyPot
+[2025-06-08 17:40:51] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:40:51] WARNING: No items received from RustyPot
+[2025-06-08 17:41:52] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:41:52] WARNING: No items received from RustyPot
+[2025-06-08 17:42:52] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:42:52] WARNING: No items received from RustyPot
+[2025-06-08 17:43:52] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:43:52] WARNING: No items received from RustyPot
+[2025-06-08 17:44:53] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:44:53] WARNING: No items received from RustyPot
+[2025-06-08 17:45:53] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:45:53] WARNING: No items received from RustyPot
+[2025-06-08 17:46:53] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:46:53] WARNING: No items received from RustyPot
+[2025-06-08 17:47:54] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:47:54] WARNING: No items received from RustyPot
+[2025-06-08 17:48:54] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:48:54] WARNING: No items received from RustyPot
+[2025-06-08 17:49:55] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:49:55] WARNING: No items received from RustyPot
+[2025-06-08 17:50:55] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:50:55] WARNING: No items received from RustyPot
+[2025-06-08 17:51:55] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:51:55] WARNING: No items received from RustyPot
+[2025-06-08 17:52:56] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:52:56] WARNING: No items received from RustyPot
+[2025-06-08 17:53:37] INFO: Следующее обновление в: 2025-06-08 17:53:36.883847
+[2025-06-08 17:53:37] INFO: Начато обновление: rustbet
+[2025-06-08 17:53:37] INFO: Начато обновление: lootfarm
+[2025-06-08 17:53:37] INFO: Начато обновление: swapgg
+[2025-06-08 17:53:37] INFO: Начато обновление: cstrade
+[2025-06-08 17:53:38] INFO: Обновление завершено: swapgg - 2033/2033 предметов за 0.89 сек
+[2025-06-08 17:53:38] INFO: Обновление завершено: lootfarm - 3831/3831 предметов за 0.94 сек
+[2025-06-08 17:53:38] INFO: Обновление завершено: cstrade - 4194/4194 предметов за 0.96 сек
+[2025-06-08 17:53:57] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:53:57] WARNING: No items received from RustyPot
+[2025-06-08 17:54:22] INFO: Обновление завершено: rustbet - 720/720 предметов за 44.87 сек
+[2025-06-08 17:54:57] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:54:57] WARNING: No items received from RustyPot
+[2025-06-08 17:55:58] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:55:58] WARNING: No items received from RustyPot
+[2025-06-08 17:56:58] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:56:58] WARNING: No items received from RustyPot
+[2025-06-08 17:57:58] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:57:58] WARNING: No items received from RustyPot
+[2025-06-08 17:58:59] ERROR: Failed to fetch RustyPot items: 403 Client Error: Forbidden for url: https://rustypot.com/api/items
+[2025-06-08 17:58:59] WARNING: No items received from RustyPot

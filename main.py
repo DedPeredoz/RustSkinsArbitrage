@@ -1,22 +1,23 @@
 # main.py
-from init_db import init_database
-from parsers.rustbet_parser import get_rustbet_data
-from parsers.lootfarm_parser import get_lootfarm_data
-from parsers.swapgg_parser import get_swapgg_data
-from parsers.cstrade_parser import get_cstrade_data
+from src.database.init_db import init_database
+from src.parsers.rustbet_parser import get_rustbet_data
+from src.parsers.lootfarm_parser import get_lootfarm_data
+from src.parsers.swapgg_parser import get_swapgg_data
+from src.parsers.cstrade_parser import get_cstrade_data
+from rustypot_ffi import get_rustypot_data  # Импорт Rust-функции
 import sqlite3
 import time
 from datetime import datetime
 
 def save_all_to_db():
-    """Основная функция для сбора и сохранения данных"""
-    init_database()  # Инициализируем БД
+    init_database()
     
     sources = {
         "rustbet": get_rustbet_data,
         "lootfarm": get_lootfarm_data,
         "swapgg": get_swapgg_data,
-        "cstrade": get_cstrade_data
+        "cstrade": get_cstrade_data,
+        "rustypot": get_rustypot_data  # Rust-парсер
     }
     
     for source_name, parser in sources.items():
@@ -25,6 +26,7 @@ def save_all_to_db():
             start_time = time.time()
             
             items = parser()
+            # ... остальной код без изменений ...
             if not items:
                 print(f"[ПРОПУСК] Нет данных от {source_name}")
                 continue
